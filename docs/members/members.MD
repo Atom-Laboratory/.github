@@ -1,12 +1,11 @@
 # 🤖 The ATOM Team
 
 > Eduardo M. do Amaral
-> ![alt text](image.png)
-
 <p align="center">
   <br>
+  <img src="image.png" width="300" alt="Eduardo M. do Amaral">
+  <br>
   Eduardo M. do Amaral
-
 </p>
   
   - [Eduardo's LinkedIn](https://www.linkedin.com/in/eduardo-amaral-977a16281/)
