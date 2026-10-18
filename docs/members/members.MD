@@ -36,29 +36,6 @@ João Augusto V. Ramalho
 - [João's LinkedIn](https://www.linkedin.com/in/joãoramalho/)
 - [João's GitHub](https://github.com/Joaoavr)
 
-> Lucas T. Weiss
-
-<p align="center">
-  <img src="lucas/lucas.png" width="400">
-  <br>
-  Lucas T. Weiss
-
-</p>
-
-- [Lucas' LinkedIn](https://www.linkedin.com/in/lucasweisstelles/)
-- [Lucas' GitHub](https://github.com/telles-lucas)
-
-> Moreno C. Jones
-
-<p align="center">
-  <img src="moreno/moreno.png" width="400">
-  <br>
-  Moreno C. Jones
-</p>
-
-- [Moreno's LinkedIn](https://www.linkedin.com/in/morenojones/)
-- [Moreno's GitHub](https://github.com/MojoRoot)
-
 > Paulo M. Moura
 
 <p align="center">
@@ -145,3 +122,26 @@ João Augusto V. Ramalho
 
 - [Nicolas' LinkedIn](https://www.linkedin.com/in/nicolasgarciaa--/)
 - [Nicolas' GitHub](https://github.com/nicolasgarcia4)
+
+> Lucas T. Weiss
+
+<p align="center">
+  <img src="lucas/lucas.png" width="400">
+  <br>
+  Lucas T. Weiss
+
+</p>
+
+- [Lucas' LinkedIn](https://www.linkedin.com/in/lucasweisstelles/)
+- [Lucas' GitHub](https://github.com/telles-lucas)
+
+> Moreno C. Jones
+
+<p align="center">
+  <img src="moreno/moreno.png" width="400">
+  <br>
+  Moreno C. Jones
+</p>
+
+- [Moreno's LinkedIn](https://www.linkedin.com/in/morenojones/)
+- [Moreno's GitHub](https://github.com/MojoRoot)
