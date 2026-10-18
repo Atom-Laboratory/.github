@@ -1,8 +1,8 @@
 # 🧪 ATOM Laboratory
 
-🌎 Language: English | [Português](readme.pt-BR.md)
+🌎 **Language:** English | [Português](readme.pt-BR.md)
 
-Welcome to the official GitHub organization of the **ATOM Laboratory**.
+Welcome to the official GitHub organization of **ATOM Laboratory**.
 
 ATOM Laboratory is a research and development initiative focused on the intersection of **robotics, computer vision, artificial intelligence, software engineering, electronics, and mechanical engineering**.
 
@@ -16,13 +16,13 @@ The laboratory develops independent projects, experimental platforms, and resear
 
 ## 🔬 About ATOM Laboratory
 
-The **ATOM Laboratory** serves as the umbrella for the ATOM research and development projects.
+**ATOM Laboratory** is the umbrella organization for a collection of multidisciplinary research and development projects.
 
-Rather than representing a single software repository or a single system, the laboratory provides a common environment for developing, experimenting with, and documenting multidisciplinary projects.
+Rather than representing a single software repository or physical system, the laboratory provides a shared environment for designing, implementing, experimenting with, and documenting technological solutions.
 
-Our work ranges from software and artificial intelligence to robotics, embedded systems, electronics, computer vision, mechanical engineering, and physical prototyping.
+Our work spans software and artificial intelligence, robotics, embedded systems, electronics, computer vision, mechanical engineering, and physical prototyping.
 
-Projects may have their own architectures, repositories, development workflows, and licensing models depending on their objectives and maturity.
+Each project may have its own architecture, repositories, development workflow, documentation, and licensing model, depending on its objectives and maturity.
 
 ---
 
@@ -30,15 +30,13 @@ Projects may have their own architectures, repositories, development workflows, 
 
 ### ♟️ ATOM Chess
 
-**ATOM Chess** is an autonomous robotic chess system focused on combining **computer vision, chess programming, artificial intelligence, robotics, motion planning, and embedded systems**.
+**ATOM Chess** is an autonomous robotic chess system that integrates **computer vision, chess programming, artificial intelligence, robotics, motion planning, and embedded systems**.
 
-The system is designed to perceive a physical chessboard, reconstruct its state, determine chess moves, plan robotic actions, and physically execute those moves.
+The project aims to enable a physical robotic system to perceive a chessboard, determine its state, calculate valid chess moves, plan the corresponding robotic actions, and physically execute those moves.
 
-ATOM Chess is developed as a multidisciplinary research platform and is one of the main software projects within ATOM Laboratory.
+ATOM Chess is developed as a multidisciplinary research platform, bringing together software, electronics, mechanical design, and autonomous decision-making.
 
-The software components of ATOM Chess are open source under the **MIT License**.
-
-The physical hardware is currently maintained separately and is not released as open-source hardware.
+The software components are released under the **MIT License**. The physical hardware is maintained separately and is not currently released as open-source hardware.
 
 Repository: [ATOM Chess](https://github.com/Atom-Laboratory/atom-chess)
 
@@ -48,7 +46,7 @@ Repository: [ATOM Chess](https://github.com/Atom-Laboratory/atom-chess)
 
 The project explores robotic manipulation, mechanical design, electronics, embedded systems, control, and human-machine interaction through the development and experimentation of a physical robotic platform.
 
-ATOM InMoov adapts and extends the concepts of the original InMoov platform for the laboratory's research and educational objectives.
+ATOM InMoov adapts and extends the concepts of the original platform to support the laboratory's research and educational objectives.
 
 Original project: [InMoov](http://www.inmoov.fr/)
 
@@ -60,53 +58,61 @@ Repository: [ATOM InMoov](https://github.com/Atom-Laboratory/atom-inmoov)
 
 ATOM Laboratory explores topics including:
 
-* Computer vision
-* Robotics
-* Artificial intelligence
-* Autonomous systems
-* Motion planning
-* Inverse kinematics
-* Embedded systems
-* Electronics
-* Mechanical engineering
-* Software engineering
-* Human-machine interaction
-* Digital manufacturing
-* Experimental automation
+- Computer vision
+- Robotics and autonomous systems
+- Artificial intelligence
+- Motion planning and trajectory generation
+- Inverse kinematics and robotic control
+- Embedded systems and firmware
+- Electronics and hardware integration
+- Mechanical engineering and physical prototyping
+- Software engineering and system architecture
+- Human-machine interaction
+- Digital manufacturing
+- Experimental automation
 
-The specific research areas vary between projects.
+Research priorities vary according to each project's objectives, scope, and development stage.
 
 ---
 
 ## 📚 Research and Education
 
-The laboratory is intended to support both **scientific research and practical engineering education**.
+ATOM Laboratory supports **scientific research, engineering experimentation, and practical technical education**.
 
-Projects are developed through experimentation, prototyping, implementation, testing, benchmarking, and iterative validation.
+Our development process emphasizes:
 
-Whenever appropriate, experimental results, technical documentation, datasets, software, and research material are made available to the community.
+- Research and technical investigation
+- System architecture and engineering design
+- Prototyping and implementation
+- Experimental testing and benchmarking
+- Iterative validation and improvement
+- Technical documentation and reproducibility
+
+Whenever appropriate, software, technical documentation, datasets, experimental results, and scientific publications are made available to the community.
+
+The laboratory aims to connect theoretical knowledge with practical engineering challenges while encouraging collaboration across disciplines.
 
 ---
 
 ## 📄 Scientific Publications
 
-Research conducted within the ATOM Laboratory may result in scientific publications, technical papers, and experimental studies.
+Research conducted within ATOM Laboratory may result in scientific publications, technical papers, and experimental studies.
 
 ### The Cost of Abstraction in OpenCV: Quantitative Performance Analysis in C++, Java, and Python
 
 **Original title:** *O Custo da Abstração no OpenCV: Análise Quantitativa de Desempenho em C++, Java e Python*
 
-**Lead Author:** Enzo Ribas
+**Lead author:** Enzo Ribas
 
-This work presents a quantitative analysis of the performance impact associated with different OpenCV language bindings and abstraction layers, comparing implementations in **C++, Java, and Python**.
+This study presents a quantitative analysis of the performance implications of different programming languages and abstraction layers when using OpenCV. It compares implementations in **C++, Java, and Python**, investigating execution time and the practical performance differences associated with each language interface.
 
-📄 [Read the paper](https://journals-sol.sbc.org.br/index.php/reic/article/view/7794)
+📄 [Read the paper — REIC](https://journals-sol.sbc.org.br/index.php/reic/article/view/7794)
 
 ---
 
 ## 👥 Team
 
-ATOM Laboratory is developed through multidisciplinary collaboration between contributors working across software engineering, computer science, robotics, computer vision, electronics, mechanical engineering, and scientific research.
+ATOM Laboratory is built through multidisciplinary collaboration among contributors working across computer science, software engineering, robotics, computer vision, electronics, mechanical engineering, and scientific research.
 
 ### [Meet the Team](../docs/members/members.MD)
 
@@ -114,33 +120,27 @@ ATOM Laboratory is developed through multidisciplinary collaboration between con
 
 ## 🖼️ Project Gallery
 
-Development records, prototypes, experiments, and project documentation are available in the laboratory gallery.
+The laboratory gallery documents the development process, including prototypes, experiments, hardware assemblies, and research activities.
 
-📷 [Project Gallery](../docs/gallery/readme.MD)
-
-The gallery contains photographs and records of prototypes, experiments, hardware development, and research activities.
+📷 [Explore the Project Gallery](../docs/gallery/readme.MD)
 
 ---
 
 ## 🤝 Contributing
 
-ATOM Laboratory welcomes contributions, technical discussion, research collaboration, and community participation.
+ATOM Laboratory welcomes technical contributions, research collaboration, constructive discussion, and community participation.
 
-Contribution policies may vary between projects.
-
-For projects that accept community contributions, please consult the contribution guidelines provided by the respective repository.
+Contribution policies may differ between projects. Before submitting contributions, consult the guidelines and development documentation provided by the relevant repository.
 
 ---
 
 ## 📜 Licensing
 
-Licensing is defined independently for each project and its individual components.
+Licensing is defined independently for each project and its components.
 
-Projects may use different licenses depending on the nature of the material being distributed.
+For example, **ATOM Chess software is released under the MIT License**, while its physical hardware is not currently released as open-source hardware.
 
-For example, **ATOM Chess software is released under the MIT License**, while its physical hardware is currently not open source.
-
-Always consult the license files included with the specific project before using, modifying, manufacturing, or redistributing its contents.
+Before using, modifying, manufacturing, or redistributing any project materials, consult the applicable license files and documentation.
 
 Third-party software, hardware, documentation, datasets, and other materials remain subject to their respective licenses.
 
@@ -156,6 +156,6 @@ For academic inquiries, research collaboration, or general information:
 
 ---
 
-> *“Technology exists to extend human capability — research exists to understand how.”*
+> *"Technology exists to extend human capability — research exists to understand how."*
 
 **ATOM Laboratory**
