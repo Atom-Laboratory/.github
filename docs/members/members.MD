@@ -3,7 +3,7 @@
 > Eduardo M. do Amaral
 <p align="center">
   <br>
-  <img src="image.png" width="300" alt="Eduardo M. do Amaral">
+  <img src="eduardo/Eduardo.png" width="300" alt="Eduardo M. do Amaral">
   <br>
   Eduardo M. do Amaral
 </p>
